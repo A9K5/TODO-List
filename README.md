@@ -16,7 +16,7 @@
   <img src="/images/4.png" alt="Homify" width="700">
 </h1>
 <h1 align="center">
-  <img src="/images/5.png" alt="Homify" width="300">
+  <img src="/images/5.png" alt="Homify"">
 </h1>
 
 ## Built with
