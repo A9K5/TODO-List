@@ -1,6 +1,6 @@
 # TODO-List
 
-### A Super simple implementation of TODO List.
+### A super simple implementation of TODO List.
 
 <h1 align="center">
   <img src="/images/2.png" alt="Sample 1" width="300">
@@ -16,7 +16,7 @@
   <img src="/images/4.png" alt="Homify" width="700">
 </h1>
 <h1 align="center">
-  <img src="/images/3.png" alt="Homify" width="300">
+  <img src="/images/5.png" alt="Homify" width="300">
 </h1>
 
 ## Built with
@@ -24,7 +24,10 @@
 - [Materialize](https://materializecss.com/)
 - [JavaScript]()
 
-
+<!-- First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column -->
 
 <!-- [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
 
